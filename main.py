@@ -1,0 +1,2 @@
+import pygameDisplay
+pygameDisplay.main()
